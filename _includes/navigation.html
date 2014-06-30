@@ -1,0 +1,16 @@
+<div class="blog-masthead">
+      <div class="container">
+        <nav class="blog-nav">
+          {% for p in site.pages %}
+		<a {% if p.url == page.url %} class="blog-nav-item active" {% else %} class="blog-nav-item" {% endif %} href="{{p.url}}">{{p.title}}</a> 
+	  {% endfor %}
+        </nav>
+      </div>
+</div>
+
+<!-- 
+<a class="blog-nav-item active" href="/">Home</a>
+          <a class="blog-nav-item" href="/about">About</a>
+          <a class="blog-nav-item" href="/resume">Resume</a>
+          <a class="blog-nav-item" href="/contact">Contact</a>
+-->

@@ -55,6 +55,9 @@ a:visited { color: #a0a; }
 /*
 /*****************************************************************************/
 
+#twitter{
+	float: left;
+}
 .site {
   font-size: 115%;
   text-align: justify;

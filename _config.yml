@@ -1,6 +1,7 @@
 name: Matthew S. Bane
-description: thoughts and experience
-markdown: redcarpet
+description: This is a blog about me and various things i'm working on.
+markdown: rdiscount
 permalink: pretty
 pygments: true
-baseurl: /blog
+highlighter: pygments
+

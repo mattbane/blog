@@ -1,8 +1,22 @@
 ---
-layout: default
+layout: resumeLayout
 title: Resume
 permalink: /resume/
 ---
+<body>
+    <div class="container">
+      <div class="blog-header">
+        <h1 class="blog-title">{{site.name}}</h1>
+        <p class="lead blog-description">{{site.description}}</p>
+      </div>
+
 <a class="extra" href="/assets/Resume.pdf" download="Resume">PDF Resume</a>
 <p> </p>
+
 {% include myResume.html %}
+
+<ul class="pager">
+     <li><a href="/about">Previous</a></li>
+     <li><a href="/contact">Next</a></li>
+</ul>
+

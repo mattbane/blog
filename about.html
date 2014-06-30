@@ -3,5 +3,25 @@ layout: default
 title: About
 permalink: /about/
 ---
+<body>
+    <div class="container">
+      <div class="blog-header">
+        <h1 class="blog-title">{{site.name}}</h1>
+        <p class="lead blog-description">{{site.description}}</p>
+      </div>
 
+ <div class="row">
+        <div class="col-sm-8 blog-main">
 {% include mysummary.html %}
+
+	<ul class="pager">
+            <li><a href="/">Previous</a></li>
+            <li><a href="/resume">Next</a></li>
+          </ul>
+</div><!-- /.blog-main -->
+<div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+          <div class="sidebar-module">
+	  <img src="/assets/my-pic.JPG" alt="my pic" width="300" height="250"/>
+	  </div>
+</div>
+
