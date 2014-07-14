@@ -1,5 +1,5 @@
 name: Matthew S. Bane
-description: This is a blog about me and various things i'm working on.
+description: This is a blog about me and various things I'm working on.
 markdown: rdiscount
 permalink: pretty
 pygments: true
