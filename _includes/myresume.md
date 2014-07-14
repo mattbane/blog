@@ -9,6 +9,19 @@ University of Pennsylvania, Wharton School, Philadelphia, PA
 ##TECHNICAL SKILLS
 • Java, C#, some Scala		        • R, Excel, some MATLAB	        • Visual Studio, Eclipse  
 • SQL, PL/SQL, MS Access, Oracle	• XML				• HTML
+#Languages
+Java, C#, Python, SQL, R, Bourne Again Shell, Sed, Awk, Grep, HTML, XML, JSON, EXCEL
+#Technologies
+Kafka, Simple Binary Encoding(sbe), flatbuffers, Protocol Buffers, JAXB, JAX-RS, JAX-WS, Jetty, Netty, JMH, Trove, Docker, OpenRTB
+#Operating Systems
+Linux, Windows
+#IDE
+Intellij, Eclipse, Vi, Visual Studio
+#Project Management
+Git, Jira, Bamboo, Confluence, Kanban, Scrum, Agile Development
+#Miscellaneous
+Excellent troubleshooting and debugging skills
+
 
 ##EMPLOYMENT
 **M&N Trading**, Chicago, IL									Feb. 2013-Sept. 2013  
