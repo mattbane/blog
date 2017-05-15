@@ -1,6 +1,6 @@
 name: Matthew S. Bane
 description: This is a blog about me and various things I'm working on.
-markdown: rdiscount
+markdown: kramdown
 permalink: pretty
 pygments: true
 highlighter: pygments
