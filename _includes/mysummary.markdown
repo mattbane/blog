@@ -1,5 +1,4 @@
-
-
+#  Header
 I'm currently finishing a masters degree in computer science at Depaul University. 
 For the past three years I was working full-time and taking classes at night, but decided 
 to pursue the degree full-time in September 2013.  I worked in the proprietary trading 

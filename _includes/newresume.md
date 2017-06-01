@@ -1,4 +1,4 @@
-##EDUCATION
+## Education
 Master of Science in Computer Science, Concentration in Artificial Intelligence, Expected June 2014  
 DePaul University, School of Computing and Digital Media, Chicago, IL  
 GPA: 3.86/4.00
@@ -6,24 +6,24 @@ GPA: 3.86/4.00
 Bachelor of Science in Economics, Concentration in Finance, 2000  
 University of Pennsylvania, Wharton School, Philadelphia, PA 
 
-##TECHNICAL SKILLS
+## Technical Skills
 • Java, C#, some Scala		        • R, Excel, some MATLAB	        • Visual Studio, Eclipse  
 • SQL, PL/SQL, MS Access, Oracle	• XML				• HTML
-#Languages
+# Languages
 Java, C#, Python, SQL, R, Bourne Again Shell, Sed, Awk, Grep, HTML, XML, JSON, EXCEL
-#Technologies
+# Technologies
 Kafka, Simple Binary Encoding(sbe), flatbuffers, Protocol Buffers, JAXB, JAX-RS, JAX-WS, Jetty, Netty, JMH, Trove, Docker, OpenRTB
-#Operating Systems
+# Operating Systems
 Linux, Windows
-#IDE
+# IDE
 Intellij, Eclipse, Vi, Visual Studio
-#Project Management
+# Project Management
 Git, Jira, Bamboo, Confluence, Kanban, Scrum, Agile Development
-#Miscellaneous
+# Miscellaneous
 Excellent troubleshooting and debugging skills
 
 
-##EMPLOYMENT
+## EMPLOYMENT
 **M&N Trading**, Chicago, IL									Feb. 2013-Sept. 2013  
 *Quantitative Trader and Developer*  
 • Traded U.S. fixed income cash and futures markets using an automated statistical arbitrage   
@@ -60,4 +60,3 @@ Chicago Board Options Exchange
 • Assisted traders with risk management activities updating delta, gamma, theta, and vega  
   parameters and applying appropriate underlying hedge for multiple equity options.  
 • Updated traders’ positions to reflect current market volatility estimates.  
-

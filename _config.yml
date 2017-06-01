@@ -2,6 +2,4 @@ name: Matthew S. Bane
 description: This is a blog about me and various things I'm working on.
 markdown: kramdown
 permalink: pretty
-pygments: true
-highlighter: pygments
-
+highlighter: rouge
