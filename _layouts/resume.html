@@ -1,7 +1,5 @@
 ---
-layout: resumeLayout
-title: Resume
-permalink: /resume/
+layout: default
 ---
 <body>
 <div class="blog-masthead">
@@ -22,11 +20,20 @@ permalink: /resume/
 
 <a class="extra" href="/assets/Resume.pdf" download="Resume">PDF Resume</a>
 <p> </p>
+ <div class="row">
+        <div class="col-sm-8 blog-main">
+	{{ content }}
 
-{% include myResume.html %}
+	<ul class="pager">
+            <li><a href="/about">Previous</a></li>
+            <li><a href="/contact">Next</a></li>
+          </ul>
+</div><!-- /.blog-main -->
 
-<ul class="pager">
-     <li><a href="/about">Previous</a></li>
-     <li><a href="/contact">Next</a></li>
 </ul>
+<div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+          <div class="sidebar-module">
+	  <img src="/assets/my-pic.JPG" alt="my pic" width="300" height="250"/>
+	  </div>
+</div>
 
